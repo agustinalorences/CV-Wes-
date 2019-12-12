@@ -23,6 +23,36 @@ transition-duration: 3s;
     transform: scale(1.2, 1.2);
 }
 
+.quotewes {
+    animation-name: animacion1;
+    animation-duration: 3s;  
+    animation-delay: 0s;
+    animation-timing-function: ease-out;
+    
+
+}
+.quotewes {
+transition-duration: 3s;
+}
+.quotewes:hover{
+    transform: scale(1.2, 1.2);
+}
+
+.quotedirector {
+    animation-name: animacion1;
+    animation-duration: 3s;  
+    animation-delay: 0s;
+    animation-timing-function: ease-out;
+    
+
+}
+.quotedirector {
+transition-duration: 3s;
+}
+.quotedirector:hover{
+    transform: scale(1.2, 1.2);
+}
+
 .cuadrobio {
 
 	width: 100%;
@@ -34,6 +64,20 @@ transition-duration: 3s;
    
 }
 
+.respuesta {
+    animation-name: animacion1;
+    animation-duration: 3s;  
+    animation-delay: 0s;
+    animation-timing-function: ease-out;
+
+}
+.respuesta {
+transition-duration: 3s;
+}
+
+.respuesta:hover{
+    transform: scale(1.2, 1.2);
+}
 
 
 footer {
